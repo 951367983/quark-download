@@ -1,0 +1,6 @@
+# 本地/部署口令配置，绝不入库
+local.config.json
+
+# 日志与依赖
+node_modules/
+*.log
