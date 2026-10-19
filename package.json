@@ -1,0 +1,14 @@
+{
+  "name": "quark-share-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "夸克网盘分享 · 免登录下载器（单文件 Node.js 版）",
+  "main": "quark-dl.js",
+  "scripts": {
+    "start": "node quark-dl.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
